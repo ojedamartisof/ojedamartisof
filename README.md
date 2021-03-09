@@ -1,4 +1,4 @@
-### Hello, I'am Martina⚡, Nice to meet you!👋
+### Hello, I'am Martina⚡ Nice to meet you!👋
 Frontend Dev Jr.
 - 🤔 Exploring new technologies.
 - 🎓 Full Stack Development Bootcamp.
